@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Poppins, sans-serif;
+}
+.wrapme{
+    display: flex;
+    gap: 40px;
+}
+.left-content h1{
+    font-size: 50px;
+    margin-bottom: 15px;
+    margin-left: 80px;
+}
+.pp{
+    font-size: 18px;
+    color: rgb(102, 102, 102);
+    margin-left: 80px;
+    margin-bottom: 15px;
+}
+.hh{
+    font-size: 14px;
+    color: rgb(0, 14, 66);
+    margin-left: 80px;
+    margin-bottom: 15px;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.containerfd{
+    background-color: rgba(136, 196, 221, 0.35);
+    width: 420px;
+    padding: 70px 40px;
+    /* height: auto; */
+    margin-left: 80px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+.containerfd a{
+    color: rgb(0, 14, 66);
+    font-weight: 600;
+    margin-top: 30px;
+}
+.containerfd h3{
+    font-size: 25px;
+    margin-top: 20px;
+    
+
+}
+.containerfd img{
+    width: 400px;
+    height: 220px;
+    border-radius: 10px;
+}
+.containerfd p{
+    font-weight: 550;
+    line-height: 30px;
+    font-size: 15px;
+    margin-top: 20px;
+}
+.containerfd h5{
+    font-weight: 550;
+    line-height: 30px;
+    font-size: 15px;
+    margin-top: 20px;
+}
+.containerfd2{
+    background-color: rgb(224, 213, 192);
+    width: 420px;
+    padding: 70px 40px;
+    /* height: auto; */
+    margin-left: 80px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+.containerfd2 img{
+    width: 400px;
+    height: 220px;
+    border-radius: 10px;
+}
+.containerfd2 h3{
+    font-size: 25px;
+    margin-top: 20px;
+    
+}
+.containerfd2 h5{
+    font-weight: 550;
+    line-height: 30px;
+    font-size: 15px;
+    margin-top: 20px; 
+}
+.containerfd2 p{
+    font-weight: 550;
+    line-height: 30px;
+    font-size: 15px;
+    margin-top: 20px; 
+}
+.containerfd3 a{
+    color: rgb(0, 14, 66);
+    font-weight: 600;
+    margin-top: 30px;}
+.containerfd3 h3{
+    font-size: 25px;
+    margin-top: 20px;
+    
+}
+.containerfd3 h5{
+    font-weight: 550;
+    line-height: 30px;
+    font-size: 15px;
+    margin-top: 20px; 
+}
+.containerfd2 p{
+    font-weight: 550;
+    line-height: 30px;
+    font-size: 15px;
+    margin-top: 20px; 
+}
+.containerfd3 p{
+    font-weight: 550;
+    line-height: 30px;
+    font-size: 15px;
+    margin-top: 20px; 
+}
+.containerfd2 a{
+    color: rgb(0, 14, 66);
+    font-weight: 600;
+    margin-top: 30px;
+}
+.containerfd3{
+    background-color: rgb(238, 239, 189);
+    width: 420px;
+    padding: 70px 40px;
+    /* height: auto; */
+    margin-left: 30px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+.containerfd3 img{
+    width: 400px;
+    height: 220px;
+    border-radius: 10px;
+}

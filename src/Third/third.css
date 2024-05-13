@@ -1,0 +1,32 @@
+*{
+    font-family: Poppins, Helvetica, Arial, Lucida, sans-serif;
+}
+
+.content span{
+    font-weight: 530;
+    font-size: 14px;
+
+}
+.line {
+    width: 280px;
+    height: 0.6px;
+    background-color: rgb(8, 158, 8);
+    margin-bottom: 20px;
+}
+.wrap{
+    display: flex;
+padding-top: 30px;
+padding-bottom: 70px;
+}
+.content h3{
+    font-size: 16px;
+}
+
+.content{
+max-width: 300px;
+
+}
+.content h2{
+font-size: 16.5px;
+margin-bottom: 12px;
+}
